@@ -11,4 +11,5 @@ C++ is used because I wanted to practice more in C++ programming and for faster 
 ## Purpose
 - Demonstrate the emulation of AES encryption.
 - Demonstrate the use for vector functions in C++.
+- Example project for GitHub portfolio
 
