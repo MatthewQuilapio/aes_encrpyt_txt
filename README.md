@@ -9,5 +9,6 @@ Tech used: C++
 C++ is used because I wanted to practice more in C++ programming and for faster running.
 
 ## Purpose
-- 
+- Demonstrate the emulation of AES encryption.
+- Demonstrate the use for vector functions in C++.
 
